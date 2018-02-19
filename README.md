@@ -1,3 +1,6 @@
+# mytest
+[![Build Status](https://secure.travis-ci.org/robisys/packages.svg?branch=master)](https://travis-ci.org/robisys/packages)
+
 # OpenWrt packages feed
 
 ## Description
